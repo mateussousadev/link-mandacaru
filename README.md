@@ -7,7 +7,6 @@ Uma plataforma minimalista de agregação de links. Crie sua própria página co
 
 </div>
 
----
 
 ## :cactus: Sobre o Projeto
 LinkMandacaru é uma plataforma intuitiva e elegante para usuários que desejam centralizar e compartilhar seus links importantes em uma única página personalizada. Seja para influenciadores digitais, profissionais da área criativa, ou qualquer pessoa que deseje ter uma presença online mais organizada, o LinkMandacaru oferece a solução perfeita.
@@ -21,33 +20,13 @@ LinkMandacaru é uma plataforma intuitiva e elegante para usuários que desejam 
 ## :rocket: Como Começar
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/seuusuario/LinkMandacaru.git
-
-   :gear: Tecnologias Utilizadas
-HTML
-CSS
-JavaScript
-Node.js
-:handshake: Contribua
-Contribuições são sempre bem-vindas! Veja como:
-
-Fork o projeto.
-Crie sua Feature Branch (git checkout -b feature/AmazingFeature).
-Commit suas mudanças (git commit -m 'Add some AmazingFeature').
-Push para a Branch (git push origin feature/AmazingFeature).
-Abra um Pull Request.
-:memo: Licença
-Distribuído sob a licença MIT. Veja LICENSE para mais informações.
-
-:mailbox: Contato
-Seu Nome - @seutwitter
-
-Projeto Link: https://github.com/seuusuario/LinkMandacaru
+   git clone https://github.com/mateussousadev/link-mandacaru.git
 
 ## :gear: Tecnologias Utilizadas
 - HTML
 - CSS
 - JavaScript
+- Angular
 - Node.js
 
 ## :handshake: Contribua
@@ -59,10 +38,8 @@ Contribuições são sempre bem-vindas! Veja como:
 4. Push para a Branch (`git push origin feature/AmazingFeature`).
 5. Abra um Pull Request.
 
-## :memo: Licença
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
-
-## :mailbox: Contato
-Mateus Sousa - 
+:mailbox: Contato
+Mateus Sousa - https://github.com/mateussousadev
 
 Projeto Link: https://github.com/mateussousadev/link-mandacaru
+
