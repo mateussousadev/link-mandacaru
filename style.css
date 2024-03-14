@@ -30,9 +30,10 @@ body *{
   color: var(--text-color);
 }
 #container{
-    width: 360px;
+    width: 100%;
     margin: 56px auto 0px;
     padding: 0px 24px;
+    max-width: 588px;
 }
 #profile{
     text-align: center;
